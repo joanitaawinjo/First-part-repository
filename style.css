@@ -1,0 +1,11 @@
+.container{
+    border: dotted 8px gold;
+    background-color: aqua;
+}
+.inner-container{
+    padding: 20px;
+    border: solid 5px red;
+    margin: 5%;
+    text-align: center;
+    background-color:yellow;
+}
